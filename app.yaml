@@ -21,6 +21,6 @@ env_variables:
     APP_DEBUG: true
     APP_ENV: production
     APP_KEY: P3hDs2F4Zjgl5ieRzERf/AG/0Dh4o/84C35UzWnaV08=
-    APP_NAME: "GCP App - CODE"
+    APP_NAME: Laravel
 
     LOG_LEVEL: debug
